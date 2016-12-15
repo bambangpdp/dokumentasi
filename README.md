@@ -7,3 +7,5 @@ Pencipta GIT
 # Lisensi
 F.A License
 
+#menambah dokumentasi
+nama : Indri Yulyani
